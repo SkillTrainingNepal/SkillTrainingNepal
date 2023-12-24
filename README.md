@@ -1,7 +1,7 @@
 # <h1>Skill Training Nepal – Professional IT Training Center in Nepal </h1>
 
  ## Welcome to Skill Training Nepal’s GitHub Page:
-Since 2019, Skill Training Nepal reputable training center that provides various IT courses in Nepal. We offer career oriented IT courses that offers intensive training program for students. 
+Since 2019, Skill Training Nepal reputable training center that provides various IT courses in Nepal. We offer career-oriented IT courses that offer an intensive training program for students. 
 Course include Computer Course, Digital Marketing, Web designing, Graphic Design, hardware training courses, Networking training courses, and more. 
 # Our IT Courses:
 Every Course has its Own Beauty! Get Enrolled in the Course of Your Interest and Secure Your Career!
@@ -14,6 +14,7 @@ Learning digital marketing is a smart investment in your future, Skill Training 
  - [Content Marketing Training](https://skilltrainingnepal.com/course/content-marketing-training-in-nepal)
   
 ## Graphic Design Training Course
+Our graphic design training includes design principles, software tools, and industry best practices to become a skilled graphic designer. Get enrolled now and get the opportunity to level up your design skills. [Graphic Design Course in Nepal](https://skilltrainingnepal.com/course/graphic-design-training-in-nepal)
 ## Advanced SEO Training Course
 ## Video Editing Training Course
 ## Motion Graphic Training course
